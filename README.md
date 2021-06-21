@@ -1,6 +1,6 @@
 ## Hi, I'm Md. Sahinoor Mondal 👋
 
-![](https://komarev.com/ghpvc/?username=SahinoorHUB&color=green&style=plastic&label=Views)
+![](https://komarev.com/ghpvc/?username=SahinoorHUB&color=brightgreen&style=plastic&label=Views)
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Node JS
