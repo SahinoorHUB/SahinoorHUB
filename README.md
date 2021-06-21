@@ -11,8 +11,10 @@
 - ⚡ Fun fact: “Eat, sleep, code, repeat” 😂
 
 <!-- Actual text -->
-You can find me on [![Twitter][1.2]][1]
+You can find me on [![Twitter][1.1]][1], [![github][6.1]][2]
 <!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.1]: http://i.imgur.com/wWzX9uB.png 
+[6.1]: http://i.imgur.com/9I6NRUm.png
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/SahinoorMd
+[2]: https://github.com/SahinoorHUB
