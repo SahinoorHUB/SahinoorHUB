@@ -1,7 +1,7 @@
 ## Hi, I'm Md. Sahinoor Mondal  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![](https://komarev.com/ghpvc/?username=SahinoorHUB&color=brightgreen&style=plastic&label=Views)
+<!-- ![](https://komarev.com/ghpvc/?username=SahinoorHUB&color=brightgreen&style=plastic&label=Views) -->
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Node JS
@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahinoorhub&show_icons=true&locale=en" alt="sahinoorhub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinoorhub&" alt="sahinoorhub" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinoorhub&" alt="sahinoorhub" /></p> -->
