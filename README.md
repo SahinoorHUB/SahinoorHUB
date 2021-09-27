@@ -20,9 +20,9 @@
 <!-- [2]: https://github.com/SahinoorHUB -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahinoorhub&label=Profile%20views&color=0e75b6&style=flat" alt="sahinoorhub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahinoorhub" alt="sahinoorhub" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahinoorhub" alt="sahinoorhub" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/sahinoormd" target="blank"><img src="https://img.shields.io/twitter/follow/sahinoormd?logo=twitter&style=for-the-badge" alt="sahinoormd" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sahinoormd" target="blank"><img src="https://img.shields.io/twitter/follow/sahinoormd?logo=twitter&style=for-the-badge" alt="sahinoormd" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
