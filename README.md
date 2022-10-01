@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning Node JS
-- 💬 Ask me about Web Design
+- 💬 Ask me about front end development and mobile app development
 - 📫 How to reach me: linkedin - [@md-sahinoor-mondal](https://www.linkedin.com/in/md-sahinoor-mondal/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: “Eat, sleep, code, repeat” 😂
