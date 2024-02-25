@@ -3,8 +3,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=SahinoorHUB&color=brightgreen&style=plastic&label=Views) -->
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning Node JS
+- 🔭 I’m currently working on Angular 
 - 💬 Ask me about front end development and mobile app development
 - 📫 How to reach me: linkedin - [@md-sahinoor-mondal](https://www.linkedin.com/in/md-sahinoor-mondal/)
 - 😄 Pronouns: He/His
